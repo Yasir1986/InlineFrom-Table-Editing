@@ -29,6 +29,7 @@ export default function MaterialTableDemo() {
       columns={state.columns}
       data={state.data}
       editable={{
+        selection: true,
         onRowAdd: newData =>
           new Promise(resolve => {
             setTimeout(() => {
