@@ -8,20 +8,18 @@ export default function MaterialTableDemo() {
       { title: 'Name', field: 'name', type: 'text' },
       { title: 'Email', field: 'email', type: 'email' },
       { title: 'Phone', field: 'phone', type: 'numeric'},
-     /*  {
-        title: 'Birth Place',
-        field: 'birthCity',
-        lookup: { 34: 'İstanbul', 63: 'Şanlıurfa' },
-      }, */
     ],
     data: [
-      { id: '1', name: 'Baran', email: 'name@getMaxListeners.com', phone: '0458490158' },
-      {
-        id: '2',
-        name: 'Chill',
-        email: 'chill@gmail.com',
-        birthCity: 34,
-      },
+      { id: '1', name: 'Baran', email: 'name@gmail.com', phone: '0458490158' },
+      { id: '2', name: 'Chill', email: 'chill@gmail.com', phone: '0457850125' },
+      { id: '3', name: 'James', email: 'james@gmail.com', phone: '0458490158' },
+      { id: '4', name: 'Mina', email: 'mina@gmail.com', phone: '054854521' },
+      { id: '5', name: 'Bina', email: 'bina@gmail.com', phone: '0458520145' },
+      { id: '6', name: 'Joni', email: 'joni@gmail.com', phone: '0457255252' },
+      { id: '7', name: 'Yoni', email: 'yoni@gmail.com', phone: '0458787878' },
+      { id: '8', name: 'Hamza', email: 'hamza@gmail.com', phone: '021457888' },
+      { id: '9', name: 'Umer', email: 'umer@gmail.com', phone: '04590907825' },
+      { id: '10', name: 'Ali', email: 'ali@gmail.com', phone: '0548569602' },
     ],
   });
 
