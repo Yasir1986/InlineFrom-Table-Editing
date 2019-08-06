@@ -1,6 +1,6 @@
-Follow the steps to run this user-data-app
+Follow the steps to run this InlineFrom Table Editing/Updating and Deleting
 
-git clone https://github.com/Yasir1986/user-data-app
+git clone https://github.com/Yasir1986/InlineFrom-Table-Editing
 
 npm install
 
