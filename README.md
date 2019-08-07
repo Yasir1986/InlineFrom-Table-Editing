@@ -12,4 +12,4 @@ OR
 
 Live  deployed link: 
 
-https://app.netlify.com/sites/admiring-yonath-0a2e29/overview
+https://admiring-yonath-0a2e29.netlify.com/
